@@ -1,0 +1,2 @@
+# FreeZ
+❤❤ DILISHA-MD-V5 GOOD WHATSAPP BOT ❤️‍🔥❤️‍🔥
