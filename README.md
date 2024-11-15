@@ -1,6 +1,6 @@
 <div align="center">
 	<h3>👧🏻 FreeZ Whatsapp Bot 👧🏻</h3>
-<img src="https://i.ibb.co/Lxm3B0r/G8-CAM5zc7747.jpg" width="300" height="190">
+<img src="https://i.ibb.co/pw0KBP3/OS5f-Wz-Jj7577.jpg" width="300" height="190">
 </div>
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+FreeZ...;Created+by+Dilisha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+FreeZ..."
