@@ -19,7 +19,7 @@
 <h5>🌸 First tap to Fork button and create new fork</h5>
 
 <h4>🌸 Following 👇</h4>
-<h1><a href="http://sadiyamin.github.io/Test">🌸 Alexa Official Web Site</a></h1>
+<h1><a href="http://sadiyamin.github.io/Test">🌸 FreeZ Official Web Site</a></h1>
 <p><tbody>
 
 <hr>
@@ -37,7 +37,7 @@
 *🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa suported 👧</a>
+<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join FreeZ suported 👧</a>
 <hr>
 <h3>🌸 Alexa updates chanels </h3>
 <a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Alexa updates chanel 👧</a>
